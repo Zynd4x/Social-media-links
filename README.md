@@ -1,1 +1,3 @@
 # Social-media-links
+I took the challange from Frontend Mentor and tried to match it as good as posible. I only used the provided html file and did the CSS in the head section with the Style element because for now its more convinient for me. I tried making it as responsive as possilbe for the heigt and the witdh but dont want to hang to long on that because no one has a super small window that it needs that. 
+I left the links to use empty because there is nowwhere to go to and i didnt make them buttons because i think there is no need for the simplicity of it. Had i made them as buttons then it would be the same as divs. It honestly didnt cross my mind to make them as buttons. 
